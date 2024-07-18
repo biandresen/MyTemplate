@@ -1,2 +1,2 @@
 # MyTemplate
-Template with webpack
+Template with webpack and FontAwesome link
