@@ -1,2 +1,2 @@
-# MyTemplate
-Template with webpack and FontAwesome link
+# BattleShip
+Make a BattleShip game as a project from The Odin Project curriculum
